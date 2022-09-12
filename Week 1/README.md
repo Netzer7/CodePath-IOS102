@@ -15,7 +15,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [X] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
+- [X] (2pt) User can view the app on various device sizes and orientations.
 - [X] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
@@ -23,4 +23,5 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/Ctj9xJzjvW.gif" width=250><br>
 
 ### Notes
-I tried to use constraints to make the title and synopsis text scale down/ fit in the screen but couldn't seem to find the proper way. Instead it will simply trail off into ellipses until I can resolve that.
+I tried to use constraints to make the title and synopsis text scale down/ fit in the screen but couldn't seem to find the proper way. Instead it will simply trail off, hoping to resolve this at some point.
+
