@@ -48,4 +48,4 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-<img src="https://github.com/Netzer7/CodePath-IOS102/blob/main/Week%203/myauTCWUth.gif" width="250"/>
+<img src="https://github.com/Netzer7/CodePath-IOS102/blob/main/Week%203%20%26%204/myauTCWUth.gif" width="250"/>
